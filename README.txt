@@ -1,9 +1,14 @@
+Made by:
+Amit goffer - 205541360
+Yehonatan Amosi - 209542349
+
 commands:
 apktool d {myapp}.apk -> disassemble exported file
 
 apktool b {myapp} -> rebuild disassembled app to apk file output.
 the output file will be in {myapp}/dist/{myapp}.afk
 
+to download the signer:
 https://github.com/patrickfav/uber-apk-signer -> go to releases -> download uber-apk-signer-1.2.1.jar
 or download directly:
 https://github.com/patrickfav/uber-apk-signer/releases/download/v1.2.1/uber-apk-signer-1.2.1.jar

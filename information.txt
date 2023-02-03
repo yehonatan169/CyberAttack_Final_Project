@@ -1,0 +1,83 @@
+device:
+Device: emu64x
+Brand: google
+Device Model: sdk_gphone64_x86_64
+Device Type: user
+Device ID: TE1A.220922.010
+Device Manufacture: Google
+DISPLAY: TE1A.220922.010
+USER: android-build
+Fingerprint: google/sdk_gphone64_x86_64/emu64x:13/TE1A.220922.010/9219351:user/release-keys
+Fingerprint partition: [android.os.Build$Partition@540fab5a, android.os.Build$Partition@f12b951, android.os.Build$Partition@386c27f3, android.os.Build$Partition@c38d0e91, android.os.Build$Partition@cfcedf6a]
+tag: release-keys
+SOC_MODEL: ranchu
+Radio version: 1.0.0.0
+RELEASE: 13
+architecture: x86_64
+product: sdk_gphone64_x86_64
+hardware: ranchu
+last security patch: 2022-11-05
+
+---------------------
+card and storage:
+is sd mounted: mounted
+is sd readonly: mounted_ro
+is external storage removable: false
+is external storage emulated: true
+is external storage legacy: false
+is external storage manager: false
+root directory: /system
+data directory: /data
+storage directory: /storage
+external storage state: mounted
+external storage directory: /storage/emulated/0
+downloads directory: Download
+downloads cache directory: /data/cache
+
+---------------------
+voice:
+Voice interaction: Available
+---------------------
+task and thread details:
+taskID: 702
+Is Task Root: false
+Is it main thread: true
+
+---------------------
+user:
+user dir: /
+user home directory: 
+user name: root
+user http agent: Dalvik/2.1.0 (Linux; U; Android 13; sdk_gphone64_x86_64 Build/TE1A.220922.010)
+
+---------------------
+SDK:
+SDK Version: 33
+
+---------------------
+operating system:
+os name: Linux
+
+---------------------
+application:
+App Version: 1.0.0
+App Version code: 1
+package name: com.MagicDate
+shared user id: null
+shared user label: 0
+activities: null
+application info: ApplicationInfo{2744774 com.MagicDate}
+install location: -1
+last update time: 1675421406835
+permissions: null
+first install time: 1675421406835
+is apex: false
+signing info: null
+
+---------------------
+java:
+java version: 0
+java vendor: The Android Project
+java vendor url: http://www.android.com/
+java home: /apex/com.android.art
+java class path: .

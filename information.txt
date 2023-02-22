@@ -8,7 +8,11 @@ Device Manufacture: Google
 DISPLAY: TE1A.220922.010
 USER: android-build
 Fingerprint: google/sdk_gphone64_x86_64/emu64x:13/TE1A.220922.010/9219351:user/release-keys
-Fingerprint partition: [android.os.Build$Partition@540fab5a, android.os.Build$Partition@f12b951, android.os.Build$Partition@386c27f3, android.os.Build$Partition@c38d0e91, android.os.Build$Partition@cfcedf6a]
+Fingerprint partition: [android.os.Build$Partition@540fab5a,
+android.os.Build$Partition@f12b951, 
+android.os.Build$Partition@386c27f3,
+android.os.Build$Partition@c38d0e91,
+android.os.Build$Partition@cfcedf6a]
 tag: release-keys
 SOC_MODEL: ranchu
 Radio version: 1.0.0.0
@@ -48,7 +52,9 @@ user:
 user dir: /
 user home directory: 
 user name: root
-user http agent: Dalvik/2.1.0 (Linux; U; Android 13; sdk_gphone64_x86_64 Build/TE1A.220922.010)
+user http agent: Dalvik/2.1.0
+  (Linux; U; Android 13;
+  sdk_gphone64_x86_64 Build/TE1A.220922.010)
 
 ---------------------
 SDK:

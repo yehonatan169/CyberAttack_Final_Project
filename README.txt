@@ -1,6 +1,6 @@
 Made by:
-Amit goffer - 205541360
-Yehonatan Amosi - 209542349
+Amit goffer 
+Yehonatan Amosi 
 
 commands:
 apktool d {myapp}.apk -> disassemble exported file
